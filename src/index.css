@@ -1,20 +1,22 @@
 body {
-  margin: 0;
+    margin: 0;
 }
 .App {
-  width: 100vw;
-  text-align: center;
-
+    width: 100vw;
+    text-align: center;
 }
 .start {
-  display: block;
-  width: 80%;
-  height: 500px;
-  margin: 20px auto;
+    display: block;
+    width: 80%;
+    height: 500px;
+    margin: 20px auto;
 }
 .stop {
-  display: block;
-  width: 80%;
-  height: 100px;
-  margin: 20px auto;
+    display: block;
+    width: 80%;
+    height: 100px;
+    margin: 20px auto;
+}
+.playback-rate-control {
+    margin: 10px auto;
 }
