@@ -8,13 +8,13 @@ body {
 .start {
     display: block;
     width: 80%;
-    height: 500px;
+    height: 400px;
     margin: 20px auto;
 }
 .stop {
     display: block;
     width: 80%;
-    height: 100px;
+    height: 80px;
     margin: 20px auto;
 }
 .playback-rate-control {
